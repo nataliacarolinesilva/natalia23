@@ -1,44 +1,4 @@
-.apre{
-
-position: absolute;
-width: 1440px;
-height: 211px;
-left: 0px;
-top: 0px;
-
-background: linear-gradient(180deg, #82D3CF 0%, rgba(130, 211, 207, 0) 100%);
+bory{
+    background-color:#FE007A ;
 
 }
-body{
-    background-color:rgb(190, 228, 238);
-    font-family: 'Lucida Sans';
-    font-size: small;
-    color: #fdfdfd;
-    text-align: center;
-    display: inline;
-    font-size: 14px;
-    }
-    h3{
-    font-family: 'Lucida Sans';
-    font-size: small;
-    color: #fdfdfd;
-    text-align: center;
-    display: inline;
-    font-size: 14px;
-    }
-    .linha {
-    font-family: 'Lucida Sans';
-    font-size: small;
-    font-size: 12px;
-    background-color:rgb(223, 175, 235);
-    }
-    .lista {
-    font-family: 'Lucida Sans';
-    font-size: small;
-    text-align: left;
-    font-size: 12px;
-    color:rgb(192, 84, 129);
-    }
-    .itens {
-    background-color: rgb(230, 209, 230);
-    }
