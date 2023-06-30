@@ -1,4 +1,27 @@
-bory{
-    background-color:#FE007A ;
-
+.cabec{
+    width: 1890px;
+    height: 277px;
+    background: #FE007A, #FA017B, #33229C;
+}
+.cabec-texto1{
+    display: flex;
+    width: 884px;
+    height: 120px;
+    flex-direction: column;
+    color: #000;
+text-align: center;
+font-size: 48px;
+font-family: Jaldi;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.cabec-texto2{
+    color: #FFF;
+text-align: center;
+font-size: 36px;
+font-family: Jaldi;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
 }
