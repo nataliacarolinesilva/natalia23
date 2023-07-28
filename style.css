@@ -1,9 +1,12 @@
 .cabec{
     width: 1890px;
     height: 277px;
-    background: #FE007A, #FA017B, #33229C;
+    background: linear-gradient(180deg, rgba(254, 0, 122, 0.62) 0%, rgba(250, 1, 123, 0.63) 17.71%, #33229C 100%);
 }
 .cabec-texto1{
+    position: absolute;
+    left: 600px;
+    top: 40px;
     display: flex;
     width: 884px;
     height: 120px;
@@ -17,6 +20,9 @@ font-weight: 400;
 line-height: normal;
 }
 .cabec-texto2{
+    top: 0px;
+position: absolute;
+left: 1600px;
     color: #FFF;
 text-align: center;
 font-size: 36px;
@@ -25,3 +31,10 @@ font-style: normal;
 font-weight: 400;
 line-height: normal;
 }
+
+.corpo{
+    width: 1890px;
+height: 1169px;
+background: linear-gradient(180deg, rgba(162, 0, 219, 0.63) 8.85%, rgba(68, 0, 211, 0.63) 54.69%, rgba(0, 0, 0, 0.90) 99.98%, rgba(25, 14, 61, 0.09) 99.99%);
+}
+   
