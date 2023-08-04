@@ -3,10 +3,17 @@
     height: 277px;
     background: linear-gradient(180deg, rgba(254, 0, 122, 0.62) 0%, rgba(250, 1, 123, 0.63) 17.71%, #33229C 100%);
 }
+
+.cabec-img{
+    position: absolute;
+    width: 270px;
+    left: 200px;
+}
+
 .cabec-texto1{
     position: absolute;
     left: 600px;
-    top: 40px;
+    top: 10px;
     display: flex;
     width: 884px;
     height: 120px;
@@ -38,3 +45,124 @@ height: 1169px;
 background: linear-gradient(180deg, rgba(162, 0, 219, 0.63) 8.85%, rgba(68, 0, 211, 0.63) 54.69%, rgba(0, 0, 0, 0.90) 99.98%, rgba(25, 14, 61, 0.09) 99.99%);
 }
    
+.livro{
+    width: 369px;
+    height: 379px;
+    flex-shrink: 0;
+    border-radius: 379px;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;  
+position: relative;
+left: 100px;
+top: 30px;
+}
+
+.musica{
+    width: 369px;
+height: 379px;
+flex-shrink: 0;
+border-radius: 379px;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+position: relative;
+left: 400px;
+top: 30px;
+}
+
+.comida{
+    width: 369px;
+height: 379px;
+flex-shrink: 0;
+border-radius: 379px;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+position: relative;
+left: 670px;
+top: 30px;
+}
+
+.dorama{
+    width: 369px;
+    height: 370px;
+    flex-shrink: 0;
+    border-radius: 370px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    position: absolute;
+    top: 870px;
+    left: 100px;
+}
+
+
+.filme{
+    width: 369px;
+    height: 370px;
+    flex-shrink: 0;
+    border-radius: 370px;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+position: absolute;
+top: 870px;
+left: 800px;
+
+
+}
+
+.time{
+    width: 369px;
+height: 370px;
+flex-shrink: 0;
+border-radius: 370px;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+position: relative;
+top: 580px;
+left: 300px;
+}
+
+.frasefinal{
+    color: rgba(232, 145, 187, 0.63);
+font-family: IM FELL English;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+top: 680px;
+position: relative;
+font-size: 40px;
+left: 90px;
+}
+
+.plivro{
+    width: 253px;
+height: 74px;
+flex-shrink: 0;
+color: #FFF;
+font-family: IM FELL English SC;
+font-size: 64px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+position: absolute;
+left: 200px;
+top: 650px;
+}
+
+.pmusica{
+    color: #FFF;
+font-family: IM FELL English;
+font-size: 64px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+position: absolute;
+left: 849px;
+top: 650px;
+}
+
+.pcomida{
+    color: #FFF;
+font-family: IM FELL English;
+font-size: 64px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+position: absolute;
+left: 1500px;
+top: ;
+top: 650px;
+}
