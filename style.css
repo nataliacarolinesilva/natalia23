@@ -165,4 +165,45 @@ position: absolute;
 left: 1500px;
 top: ;
 top: 650px;
+
+}
+
+.pdorama{
+
+    color: #FFF;
+font-family: IM FELL English;
+font-size: 64px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+position: relative;
+left: 155px;
+top: 435px;
+}
+
+
+.pfilme{
+
+    color: #FFF;
+font-family: IM FELL English;
+font-size: 64px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+position: relative;
+left: 899px;
+top: 300px;
+}
+
+.ptimedocoraçao{
+
+    color: #FFF;
+font-family: IM FELL English;
+font-size: 64px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+position: relative;
+left: 1370px;
+top: 160px;
 }
